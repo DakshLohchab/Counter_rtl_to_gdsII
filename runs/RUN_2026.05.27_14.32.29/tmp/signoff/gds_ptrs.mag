@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 20000 20000
+string GDS_END 306570
+string GDS_FILE /openlane/designs/counter/runs/RUN_2026.05.27_14.32.29/results/signoff/counter.magic.gds
+string GDS_START 92954
+<< end >>
